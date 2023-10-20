@@ -1,0 +1,14 @@
+C:\Users\anhtu\OneDrive - Greenwich Vietnam\Documents\IT\C#\Coffee Maker\Coffee Maker\bin\Debug\net6.0\Coffee Maker.exe
+C:\Users\anhtu\OneDrive - Greenwich Vietnam\Documents\IT\C#\Coffee Maker\Coffee Maker\bin\Debug\net6.0\Coffee Maker.deps.json
+C:\Users\anhtu\OneDrive - Greenwich Vietnam\Documents\IT\C#\Coffee Maker\Coffee Maker\bin\Debug\net6.0\Coffee Maker.runtimeconfig.json
+C:\Users\anhtu\OneDrive - Greenwich Vietnam\Documents\IT\C#\Coffee Maker\Coffee Maker\bin\Debug\net6.0\Coffee Maker.dll
+C:\Users\anhtu\OneDrive - Greenwich Vietnam\Documents\IT\C#\Coffee Maker\Coffee Maker\bin\Debug\net6.0\Coffee Maker.pdb
+C:\Users\anhtu\OneDrive - Greenwich Vietnam\Documents\IT\C#\Coffee Maker\Coffee Maker\obj\Debug\net6.0\Coffee Maker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anhtu\OneDrive - Greenwich Vietnam\Documents\IT\C#\Coffee Maker\Coffee Maker\obj\Debug\net6.0\Coffee Maker.AssemblyInfoInputs.cache
+C:\Users\anhtu\OneDrive - Greenwich Vietnam\Documents\IT\C#\Coffee Maker\Coffee Maker\obj\Debug\net6.0\Coffee Maker.AssemblyInfo.cs
+C:\Users\anhtu\OneDrive - Greenwich Vietnam\Documents\IT\C#\Coffee Maker\Coffee Maker\obj\Debug\net6.0\Coffee Maker.csproj.CoreCompileInputs.cache
+C:\Users\anhtu\OneDrive - Greenwich Vietnam\Documents\IT\C#\Coffee Maker\Coffee Maker\obj\Debug\net6.0\Coffee Maker.dll
+C:\Users\anhtu\OneDrive - Greenwich Vietnam\Documents\IT\C#\Coffee Maker\Coffee Maker\obj\Debug\net6.0\refint\Coffee Maker.dll
+C:\Users\anhtu\OneDrive - Greenwich Vietnam\Documents\IT\C#\Coffee Maker\Coffee Maker\obj\Debug\net6.0\Coffee Maker.pdb
+C:\Users\anhtu\OneDrive - Greenwich Vietnam\Documents\IT\C#\Coffee Maker\Coffee Maker\obj\Debug\net6.0\Coffee Maker.genruntimeconfig.cache
+C:\Users\anhtu\OneDrive - Greenwich Vietnam\Documents\IT\C#\Coffee Maker\Coffee Maker\obj\Debug\net6.0\ref\Coffee Maker.dll
